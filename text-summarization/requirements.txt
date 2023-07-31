@@ -1,0 +1,11 @@
+datasets
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+contractions
+gensim==3.8.3
+rouge
+tensorflow
+transformers
